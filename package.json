@@ -1,0 +1,19 @@
+{
+  "name": "ci-2.x",
+  "version": "1.0.0",
+  "description": "Practice repo for CodeIgniter 2.X",
+  "main": "index.php",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kathirr007/CodeIgniter2.X.git"
+  },
+  "author": "kathirr007",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kathirr007/CodeIgniter2.X/issues"
+  },
+  "homepage": "https://github.com/kathirr007/CodeIgniter2.X#readme",
+  "devDependencies": {
+    "del": "^2.2.2"
+  }
+}
